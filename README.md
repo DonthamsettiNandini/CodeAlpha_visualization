@@ -1,5 +1,5 @@
 # CodeAlpha_visualization
-isual data analysis of Netflix's "Best Movie by Year" dataset using Python (Seaborn &amp; Matplotlib) to uncover trends, genres, and production insights for a data analyst internship project.
+visual data analysis of Netflix's "Best Movie by Year" dataset using Python (Seaborn &amp; Matplotlib) to uncover trends, genres, and production insights for a data analyst internship project.
 ## 📊 Netflix Best Movies by Year – Data Visualization Project
 # 📁 Dataset Summary
 Source: Kaggle
